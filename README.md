@@ -25,5 +25,5 @@ python app.py
 
 The first time you run the app it will download the model from Huggingface. The app will be available in your browser at http://127.0.0.1:7860
 
-
+![Screenshot](https://github.com/rdmpage/bhl_clip_classifier/raw/main/screenshot.png)
 
